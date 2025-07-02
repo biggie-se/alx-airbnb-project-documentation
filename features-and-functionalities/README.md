@@ -1,0 +1,1 @@
+![features&functionalities](<Project Requirements for the Airbnb Clone Backend.drawio-1.png>)
